@@ -41,7 +41,7 @@ owner:
   avatar: avatar.jpg
   job: "Senior System Operations Engineer"
   bio: "A guy who is trying to be a competent ethical hacker and living in Shanghai right now."
-  email: cuizhidong2017@gmail.com';
+  email: cuizhidong2017@gmail.com
   disqus-shortname: #username
   twitter:  #username
   facebook: #username
@@ -52,7 +52,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: barrycui #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
