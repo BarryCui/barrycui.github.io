@@ -1,0 +1,71 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: 崔芷菘 Barry
+email: 632378055@qq.com
+description: Barry's blog,powered by jekyll.
+url: https://barrycui.github.io # the base hostname & protocol for your site
+keywords: ["python", "cisco","zabbix", "cybersecurity"]
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Asia/Shanghai
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+plugins:
+  - jekyll-gist
+  - jemoji
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: 崔芷菘 Barry
+  avatar: avatar.jpg
+  job: "Senior System Operations Engineer"
+  bio: "A guy who is trying to be a competent ethical hacker and living in Shanghai right now."
+  email: cuizhidong2017@gmail.com';
+  disqus-shortname: #username
+  twitter:  #username
+  facebook: #username
+  google:
+    plus: #username
+    analytics: 
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+  telegram: #username

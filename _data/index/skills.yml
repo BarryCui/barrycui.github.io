@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: 编程(Python,Javascript), Web渗透测试, 网络规划调试(CCNP&HCNP), English
+percentage: 65, 65, 70, 90

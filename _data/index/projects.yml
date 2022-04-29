@@ -1,0 +1,4 @@
+- name: zabbi模板WX3510H
+  descr: "H3C无线控制器WX3510H的zabbix监控模板。"
+  image: pong.png
+  github: https://github.com/BarryCui/zabbix-templates
