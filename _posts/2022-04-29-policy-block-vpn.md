@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Fortigate防火墙阻挡恶意ip对设备发起的请求
-categories: [network]
+categories: [网络技术]
 tags: [fortinet]
 ---
 ##### 描述
