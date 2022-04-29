@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  阻挡恶意ip对设备发起的请求
+title:  Fortigate防火墙阻挡恶意ip对设备发起的请求
 categories: [network]
 tags: [fortinet]
 ---
