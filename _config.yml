@@ -55,6 +55,8 @@ owner:
     verify:
     ad-client:
     ad-slot:
+  baidu:
+    analytics: https://hm.baidu.com/hm.js?09d0b4631733b6018e39819be8c4d30f
   bing-verify:
   github: barrycui #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
