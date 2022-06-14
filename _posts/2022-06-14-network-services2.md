@@ -2,7 +2,7 @@
 layout: post
 title:  TryHackMe: Network Services 2 Room Writeup
 categories: [TryHackMe]
-tags: [Cyber Defense, Writeup]
+tags: [Writeup]
 ---
 
 # TryHackMe: Network Services 2 Room Writeup
