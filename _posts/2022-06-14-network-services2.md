@@ -45,7 +45,7 @@ controlling user permissions? Format: parameter 1 / parameter 2**
 
 > 4.2
 
-Task 3
+### Task 3
 
 **Conduct a thorough port scan scan of your choosing, how many ports are open?**
 
