@@ -90,8 +90,11 @@ There's a login form. So the first thing came to my mind is sql injection.
 
 I tried several sql commands to make a quick test.
 I tried the following for both username and password:
+
 admin'
+
 admin'--
+
 admin' or '1' = '1
 
 And luckily the last one worked! I logged in successfully:
